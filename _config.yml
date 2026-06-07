@@ -1,15 +1,15 @@
 # Site settings
 title: Akansha Vashisth
-description: A blog about Data science
+description: A blog about Computer science
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:4000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 username: Akansha Vashisth
-user_description: My journey from Software Engineering to Data Science
+user_description: My journey of Computer Software Engineering
 user_subtitle: Engineering and Data Science
 email: akanshavashisth@gmail.com
-facebook_username: 
-instagram_username: indian_musafir
+linkedin_username: akanshavashisth
+instagram_username: akavashisth
 twitter_username: vashisth_ak
 github_username:  akanshaVashisth
 
